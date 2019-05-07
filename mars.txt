@@ -2,3 +2,6 @@ hi welcome to git
 u r using git
 
 3rd is adding
+
+one is added
+
